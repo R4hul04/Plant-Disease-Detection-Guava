@@ -1,0 +1,12 @@
+matplotlib==3.4.2
+keras_nightly==2.5.0.dev2021032900
+numpy==1.21.1
+tensorflow==2.5.0
+keras==2.6.0
+Pillow==8.3.1
+
+The trained Model can be downloaded from the given link:
+https://drive.google.com/file/d/15YYeFC1lBr9kFO_W9usePvZAIvVjh-ma/view?usp=sharing
+
+Guava Dataset link:
+https://drive.google.com/drive/folders/1ED-DaaP9tOOtG7jIUWJ3i35yYZXwlZFa?usp=sharing
